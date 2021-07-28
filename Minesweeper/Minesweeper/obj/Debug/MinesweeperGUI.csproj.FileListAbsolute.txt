@@ -1,0 +1,5 @@
+C:\Users\zichuan\source\repos\Minesweeper\Minesweeper\obj\Debug\MinesweeperGUI.csprojResolveAssemblyReference.cache
+C:\Users\zichuan\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Minesweeper.resources
+C:\Users\zichuan\source\repos\Minesweeper\Minesweeper\obj\Debug\MinesweeperGUI.Properties.Resources.resources
+C:\Users\zichuan\source\repos\Minesweeper\Minesweeper\obj\Debug\MinesweeperGUI.csproj.GenerateResource.Cache
+C:\Users\zichuan\source\repos\Minesweeper\Minesweeper\obj\Debug\MinesweeperGUI.csproj.CoreCompileInputs.cache
